@@ -1,0 +1,33 @@
+.form_title {		
+	border-radius: 0px !important;
+}
+
+.form_separator {
+	background-color: #6c757d;
+	color: white;
+	margin-bottom: 5px;
+	border-bottom: 1px solid black;
+	border-right: 1px solid black;
+}
+
+.tweb_pointer {
+	cursor:pointer;	
+}
+
+.tweb_switch {
+	padding-left: 3.25rem
+}
+
+.tweb_checkbox {
+	padding-left: 2.50rem
+}
+
+.tweb_folder {
+	padding:0px;
+}
+
+/*	Gif loading en autocomplete ui */
+
+.ui-autocomplete-loading {
+		background: white url("images/ui-anim_basic_16x16.gif") right center no-repeat;
+}
